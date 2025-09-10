@@ -1,11 +1,11 @@
-Best websites for scientific research : <br>
+<h1>Best websites for scientific research : </h1>
 
-<a href="https://www.nucleodoconhecimento.com.br/"> Nucleo do Conhecimento</a>
+<a href="https://www.nucleodoconhecimento.com.br//"> Nucleo do Conhecimento</a>
 
 <a href="http://www.scielo.org/"> SciELO</a>
 
 
-<h1> Mathematics :</h1> <br>
+<h1> Mathematics :</h1>
 <a href="https://sbm.org.br/"> Sociedade Brasileira de Matemática</a>
 <a href="https://www.sbembrasil.org.br/sbembrasil/" > Sociedade Brasileira de Educação Matemática</a>
 <a href="https://www.somatematica.com.br/" > Só Matemática</a>
